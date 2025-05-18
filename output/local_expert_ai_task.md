@@ -1,0 +1,11 @@
+Planning a 100-day Goa extravaganza for 23 people requires meticulous planning, especially regarding accommodation, which constitutes the largest portion of your 1,000,000,000 INR budget.  The initial budget allocation for accommodation (400,000,000 - 500,000,000 INR) is a broad estimate and needs refinement.  Contacting multiple villa rental agencies (like Lohono Stays, StayVista, Goa Villa Rentals, The Blue Kite, Ekostay, Vianaar Homes, Hireavilla, Vrbo, and Losttraveller) directly is crucial to secure suitable accommodations. Clearly state your requirements—23 people for 100 days—to receive accurate quotes and availability information.
+
+Once accommodation is secured, the transportation plan needs a detailed cost breakdown. The initial 100,000,000 INR allocation for transportation needs further scrutiny.  Contact multiple bus and car rental companies to obtain accurate quotes for renting multiple buses for longer trips and several private cars for greater flexibility in shorter trips.  Factor in local transport like taxis and ferries (estimate 10,000,000 INR, but this requires more specific research).  
+
+For food, the estimated 200,000,000 INR needs refinement.  Consider a combination of self-catering (utilizing villa kitchens) and dining out.  Calculate an average cost per person per day (around 1000 INR is a starting point, but this will depend on your dining choices) and factor in a potential dedicated chef.
+
+The 150,000,000 INR allocated for activities and excursions is also an initial estimate.  Create a detailed list of desired activities, research costs, and ensure you factor in group discounts wherever possible.  
+
+A contingency fund of 50,000,000 INR is advisable to cover unforeseen expenses.  
+
+Remember to factor in potential taxes and other additional charges.  Negotiating prices with all vendors and service providers is recommended to minimize costs.  Advance booking of accommodations and transportation is essential, especially for a large group.  Your detailed itinerary offers a fantastic starting point, but securing accurate quotes and confirming availability will shape your final budget and refine your plans accordingly.  Enjoy your Goa Extravaganza!

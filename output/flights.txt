@@ -1,0 +1,29 @@
+Open https://www.google.com/travel/flights. 
+Wait for the page to load completely.
+1. Click on the "Round trip" option (if not already selected). 
+2. Click the "From" input field. Clear any existing text. Type "Tokyo" and select the correct suggestion from the dropdown.
+3. Click the "To" input field. Clear any existing text. Type "Goa" and select the correct suggestion from the dropdown. 
+4. Click the "Departure date" field. Choose the date "2025-04-09". 
+5. For the return date, calculate the return date as 2025-04-09 + 100 days (which is 2025-07-18) and select that date in the calendar. 
+6. Click on the "Travelers" option. Set the number of adults to "23".  This may require multiple searches, potentially splitting the group into smaller bookings.  Google Flights may have limitations on the number of passengers per search.
+7. Click the "Done" or "Search" button to initiate the flight search.
+8. Wait for the results to load. Scrape the top 5 flight results including:
+   - Airline name
+   - Departure and arrival times
+   - Total duration
+   - Price
+
+**Important Considerations:**
+
+* **Multiple Bookings:**  Booking flights for 23 people will likely require multiple searches and potentially multiple bookings. Google Flights might have passenger limits per search. Consider using a travel agent specializing in group bookings for assistance.
+
+* **Flight Costs:** The budget of 1,000,000,000 INR is substantial, but international flights for 23 people can be expensive.  Explore various flight aggregator websites and consider booking in advance for potentially better prices.
+
+* **Airport Transfers:**  Factor in airport transfers from Goa airport to your chosen accommodations. For a group of 23, consider renting multiple vans or minibuses.
+
+* **Visa Requirements:** Ensure all 23 travelers have the necessary visas for entry into India.
+
+* **Alternative Airports:**  Check flight options from other airports in Japan besides Tokyo (Narita or Haneda) to potentially find cheaper options.
+
+
+The prompt above provides a starting point for finding flight options.  Due to the large group size, utilizing a travel agent is highly recommended for efficient and cost-effective booking.
